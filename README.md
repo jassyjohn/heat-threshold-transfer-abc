@@ -48,7 +48,7 @@ Two metros chosen for contrasting climate / AC-penetration regimes test
 whether the ABC transfer recovers the SES-mediated adaptive-capacity
 mechanism documented in California.
 
-|                                            | **Portland** (n = 67) | **Las Vegas** (n = 67) |
+|                                            | **Portland** (n = 67) | **Las Vegas** (n = 72) |
 |--------------------------------------------|-----------------------|-------------------------|
 | Cat 1 threshold (mean ± SD)                | 75.5 ± 2.3 °F         | 91.0 ± 2.4 °F           |
 | Cat 4 threshold (mean ± SD)                | 84.4 ± 2.3 °F         | 98.8 ± 2.4 °F           |
