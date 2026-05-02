@@ -52,7 +52,7 @@ mechanism documented in California.
 |--------------------------------------------|-----------------------|-------------------------|
 | Cat 1 threshold (mean ± SD)                | 75.5 ± 2.3 °F         | 91.0 ± 2.4 °F           |
 | Cat 4 threshold (mean ± SD)                | 84.4 ± 2.3 °F         | 98.8 ± 2.4 °F           |
-| July avg daily max temp                    | 80.4 ± 2.9 °F         | 106.5 ± 1.6 °F          |
+| July avg daily max temp                    | 80.4 ± 2.9 °F         | 106.5 ± 1.5 °F          |
 | AC penetration (across ZIPs)               | 45–85 %               | ~95–99 %                |
 | Poverty × Cat 1, controlling for July max  | **−0.31\***           | +0.08 (n.s.)            |
 | Poverty × Cat 4, controlling for July max  | **−0.42\*\*\***       | +0.06 (n.s.)            |
