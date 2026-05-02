@@ -70,16 +70,22 @@ mechanism, not noise.
 
 ## Files in this repository
 
-| Path                              | Purpose                                                          |
-|-----------------------------------|------------------------------------------------------------------|
-| `README.md`                       | This overview                                                    |
-| `Thresholds.csv`                  | Predicted Cat 1–4 thresholds + posterior SD + 95 % CI for each Portland and Las Vegas ZIP (139 rows) |
-| `Portland_thresholds_map.png`     | Per-ZIP Cat 1–4 threshold maps for the Portland transfer         |
-| `Las_Vegas_thresholds_map.png`    | Per-ZIP Cat 1–4 threshold maps for the Las Vegas transfer        |
-| `Portland_App_Screenshot.png`     | Heat-warning mobile-app view for a Portland ZIP                  |
-| `Las_Vegas_App_Screenshot.png`    | Heat-warning mobile-app view for a Las Vegas ZIP                 |
-| `UCLA_App_Screenshot.png`         | Mobile-app view for a UCLA-area ZIP (California reference)       |
-| `SouthCentral_App_Screenshot.png` | Mobile-app view for a South Central LA ZIP (California reference) |
+Files are numerically prefixed so the GitHub file listing displays
+them in narrative order: app screenshots first (California reference
+ZIPs, then the two transfer-region ZIPs), then the threshold maps,
+then the underlying numeric outputs.
+
+| Path                               | Purpose                                                          |
+|------------------------------------|------------------------------------------------------------------|
+| `01_App_UCLA.png`                  | Heat-warning mobile-app view for a UCLA-area ZIP (California reference) |
+| `02_App_SouthCentral.png`          | Mobile-app view for a South Central LA ZIP (California reference) |
+| `03_App_Portland.png`              | Mobile-app view for a Portland ZIP (cross-state transfer)        |
+| `04_App_LasVegas.png`              | Mobile-app view for a Las Vegas ZIP (cross-state transfer)       |
+| `05_Map_Portland_thresholds.png`   | Per-ZIP Cat 1–4 threshold maps for the Portland transfer         |
+| `06_Map_LasVegas_thresholds.png`   | Per-ZIP Cat 1–4 threshold maps for the Las Vegas transfer        |
+| `07_Thresholds.csv`                | Predicted Cat 1–4 thresholds + posterior SD + 95 % CI for each Portland and Las Vegas ZIP (139 rows) |
+| `LICENSE`                          | MIT license                                                      |
+| `README.md`                        | This overview                                                    |
 
 The full calibrated CA ZIP index, per-ZIP narrative profiles, ABC draw
 logs, and the LA County within-CA validation outputs are not included in
